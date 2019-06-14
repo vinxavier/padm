@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_list">
+        <item>Diadema</item>
+        <item>Mauá</item>
+        <item>Ribeirão Pires</item>
+        <item>Rio Grande da Serra</item>
+        <item>Santo André</item>
+        <item>São Bernardo do Campo</item>
+        <item>São Caetano do Sul</item>
+        <item>São Paulo</item>
+        <item>Arujá</item>
+        <item>Guarulhos</item>
+        <item>Santa Isabel</item>
+        <item>Cotia</item>
+        <item>Embu das Artes</item>
+        <item>Embu-Guaçu</item>
+        <item>Itapecerica da Serra</item>
+        <item>Juquitiba</item>
+        <item>São Lourenço da Serra</item>
+        <item>Taboão da Serra</item>
+        <item>Vargem Grande Paulista</item>
+        <item>Biritiba Mirim</item>
+        <item>Ferraz de Vasconcelos</item>
+        <item>Guararema</item>
+        <item>Itaquaquecetuba</item>
+        <item>Mogi das Cruzes</item>
+        <item>Poá</item>
+        <item>Salesópolis</item>
+        <item>Suzano</item>
+        <item>Barueri</item>
+        <item>Cajamar</item>
+        <item>Carapicuíba</item>
+        <item>Itapevi</item>
+        <item>Jandira</item>
+        <item>Osasco</item>
+        <item>Pirapora do Bom Jesus</item>
+        <item>Santana de Parnaíba</item>
+    </string-array>
+</resources>

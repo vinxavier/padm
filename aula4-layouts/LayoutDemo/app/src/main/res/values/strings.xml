@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LayoutDemo</string>
+    <string name="title_activity_main">Layout Demo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_linear_layout_demo">LinearLayoutDemo</string>
+    <string name="title_activity_relative_layout_demo">RelativeLayoutDemo</string>
+    <string name="title_activity_list_view_demo">ListViewDemo</string>
+    <string name="title_activity_grid_layout_demo">GridLayoutDemo</string>
+    <string name="email">Email</string>
+    <string name="grid_item_clicked">\"You clicked item %d\"</string>
+</resources>

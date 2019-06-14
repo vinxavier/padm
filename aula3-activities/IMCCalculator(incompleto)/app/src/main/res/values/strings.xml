@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMC Simulador (incompleto)</string>
+    <string name="muito_abaixo_peso">Muito abaixo do peso</string>
+    <string name="abaixo_peso">Abaixo do peso</string>
+    <string name="peso_normal">Peso normal</string>
+    <string name="acima_peso">Acima do peso</string>
+    <string name="obesidade_i">Obesidade I</string>
+    <string name="obesidade_ii">Obesidade II</string>
+    <string name="obesidade_morbida">Obesidade morbida</string>
+</resources>

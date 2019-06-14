@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="layout_array">
+        <item>Select a layout...</item>
+        <item>LinearLayout</item>
+        <item>RelativeLayout</item>
+        <item>ConstraintLayout</item>
+        <item>ListView</item>
+        <item>GridView</item>
+    </string-array>
+</resources>

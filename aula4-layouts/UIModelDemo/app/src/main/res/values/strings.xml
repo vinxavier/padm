@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UIModelDemo</string>
+    <string name="title_activity_main">UI Model Demo</string>
+
+    <string name="landscape_message">I am in landscape orientation!</string>
+    <string name="action_settings">Settings</string>
+    <string name="portrait_message">I am in portrait orientation!</string>
+</resources>
