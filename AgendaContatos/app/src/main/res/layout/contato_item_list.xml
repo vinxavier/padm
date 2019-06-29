@@ -11,11 +11,13 @@
             android:text="nome"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingLeft="10dp" android:id="@+id/nameLabel" android:textSize="30sp"/>
+            android:paddingLeft="10dp" android:id="@+id/nameLabel" android:textSize="30sp"
+            android:textColor="@color/gray"/>
     <TextView
             android:text="+ 55 (00) 9 0000 - 0000"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingLeft="20dp" android:id="@+id/phoneLabel" android:textSize="18sp"
-            android:layout_marginTop="5dp" android:layout_below="@+id/nameLabel"/>
+            android:layout_marginTop="5dp" android:layout_below="@+id/nameLabel"
+            android:textColor="@color/gray"/>
 </RelativeLayout>

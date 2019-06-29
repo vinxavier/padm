@@ -33,8 +33,8 @@ object ContatoDAOObject {
         c.nome = "Joao"
         c.email = "joao@email.com"
         c.endereco = "Rua Apolinario"
-        c.telefoneComercial = "123445"
-        c.telefoneResidencial = "123458"
+        c.telefoneComercial = "+55 (11) 3333 - 7867"
+        c.telefoneResidencial = "+55 (11) 9999 - 7847"
 
         contatos.add(c)
 
@@ -42,8 +42,8 @@ object ContatoDAOObject {
         c.nome = "Maria"
         c.email = "maria@email.com"
         c.endereco = "Rua Joana"
-        c.telefoneComercial = "123445"
-        c.telefoneResidencial = "123458"
+        c.telefoneComercial = "+55 (11) 3563 - 9967"
+        c.telefoneResidencial = "+55 (11) 4533 - 7997"
 
         contatos.add(c)
     }
@@ -84,8 +84,8 @@ class ContatoDAOClass private constructor() {
         c.nome = "Joao"
         c.email = "joao@email.com"
         c.endereco = "Rua Apolinario"
-        c.telefoneComercial = "123445"
-        c.telefoneResidencial = "123458"
+        c.telefoneComercial = "+55 (11) 3333 - 7867"
+        c.telefoneResidencial = "+55 (11) 9999 - 7847"
 
         contatos.add(c)
 
@@ -93,8 +93,8 @@ class ContatoDAOClass private constructor() {
         c.nome = "Maria"
         c.email = "maria@email.com"
         c.endereco = "Rua Joana"
-        c.telefoneComercial = "123445"
-        c.telefoneResidencial = "123458"
+        c.telefoneComercial = "+55 (11) 3563 - 9967"
+        c.telefoneResidencial = "+55 (11) 4533 - 7997"
 
         contatos.add(c)
     }

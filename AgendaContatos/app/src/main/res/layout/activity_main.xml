@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-                xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+                xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="5dp"
                 tools:context="br.edu.ufabc.padm.agendacontatos.MainActivity">
@@ -9,6 +9,16 @@
             android:id="@+id/list_contatos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton android:layout_width="wrap_content"
+                                                                           android:layout_height="match_parent"
+                                                                           android:id="@+id/floating_button_add"
+                                                                           android:src="@drawable/button_insert"
+                                                                           app:backgroundTint="@android:color/holo_blue_light"
+                                                                           android:layout_alignParentBottom="true"
+                                                                           android:layout_alignParentRight="true"
+                                                                           android:layout_marginRight="24dp"
+                                                                           android:layout_marginBottom="37dp"/>
 
 </RelativeLayout>
 

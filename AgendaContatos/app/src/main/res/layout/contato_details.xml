@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:orientation="vertical"
+             android:layout_height="match_parent"
+             android:padding="15dp">
+    <TextView android:text="TESTE"
+              android:padding="5dp"
+              android:textColor="@color/gray"
+              android:textSize="30sp"
+              android:id="@+id/nameLabel"
+              android:textStyle="bold"/>
+    <TableRow android:padding="5dp">
+        <TextView android:text="@string/email"
+        android:padding="5dp"/>
+        <TextView android:id="@+id/emailLabel"
+        android:padding="5dp"
+        android:layout_marginLeft="40dp"/>
+    </TableRow>
+    <TableRow android:padding="5dp">
+        <TextView android:text="@string/endereco"
+        android:padding="5dp"/>
+        <TextView android:id="@+id/enderecoLabel"
+        android:padding="5dp"
+        android:layout_marginLeft="40dp"/>
+    </TableRow>
+    <TableRow android:padding="5dp">
+        <TextView android:text="@string/telefonecomercial"
+                  android:padding="5dp"/>
+        <TextView android:id="@+id/telefoneComercialLabel"
+                  android:padding="5dp"
+                  android:layout_marginLeft="40dp"/>
+    </TableRow>
+    <TableRow android:padding="5dp">
+        <TextView android:text="@string/telefoneresidencial"
+                  android:padding="5dp"/>
+        <TextView android:id="@+id/telefoneResidencialLabel"
+                  android:padding="5dp"
+                  android:layout_marginLeft="40dp"/>
+    </TableRow>
+
+</TableLayout>

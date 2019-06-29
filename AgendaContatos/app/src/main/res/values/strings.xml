@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">AgendaContatos</string>
+    <string name="app_name">Contatos</string>
+    <string name="email">E-mail:</string>
+    <string name="endereco">Endereço:</string>
+    <string name="title_activity_contato_details">Detalhes</string>
+    <string name="telefonecomercial">Telefone Comercial:</string>
+    <string name="telefoneresidencial">Telefone Residencial:</string>
+    <string name="nome">Nome</string>
+    <string name="emailInsert">E-mail</string>
+    <string name="telefonecomercialInsert">Telefone Comercial</string>
+    <string name="telefoneresidencialinsert">Telefone Residencial</string>
+    <string name="addButtonLabel">Adicionar Contato</string>
+    <string name="enderecoInsert">Endereço</string>
+    <string name="insert_done">Contato adicionado com sucesso!</string>
+    <string name="inserir_contato">Inserir Contato</string>
+    <string name="title_activity_contato_insert">Inserir Contato</string>
 </resources>
