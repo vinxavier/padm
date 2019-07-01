@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="demo_list">
+        <item>Explicit Intent (simple)</item>
+        <item>Explicit Intent with extras</item>
+        <item>Explicit Intent with flags</item>
+        <item>Implicit Intent with extras</item>
+        <item>Implicit Intent with results</item>
+        <item>Implicit Intent with app chooser</item>
+        <item>Implicit Intent with error (unchecked)</item>
+        <item>Implicit intent filter test</item>
+    </array>
+</resources>

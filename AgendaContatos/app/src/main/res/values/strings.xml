@@ -14,4 +14,18 @@
     <string name="insert_done">Contato adicionado com sucesso!</string>
     <string name="inserir_contato">Inserir Contato</string>
     <string name="title_activity_contato_insert">Inserir Contato</string>
+    <string name="deletar_contato">Deletar um contato</string>
+    <string name="editar_contato">Editar um contato</string>
+    <string name="context_menu_selected_count">Contatos</string>
+    <string name="context_menu_title">Modificar Contatos</string>
+    <string name="success_remove_contact">Contatos removidos com sucesso</string>
+    <string name="failed_remove_contact">Não foi possível remover os contatos</string>
+    <string name="title_activity_contato_edit">Editar Contato</string>
+    <string name="required_field">Campo Requisitado</string>
+    <string name="insert_status_ok">Contato inserido com sucesso</string>
+    <string name="insert_status_error">Erro ao adicionar contato</string>
+    <string name="edit_status_ok">Contato editado com sucesso</string>
+    <string name="edit_status_error">Erro ao editar contato</string>
+    <string name="selecionar_contatos">Selecionar Contatos</string>
+    <string name="preparando_para_enviar">Enviar contatos...</string>
 </resources>

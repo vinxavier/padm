@@ -7,5 +7,4 @@
           android:icon="@drawable/ic_action_insert"
           android:title="@string/inserir_contato"
           yourapp:showAsAction="ifRoom"/>
-
 </menu>

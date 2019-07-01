@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">IntentDemo</string>
+    <string name="title_activity_main">Intent Demonstration</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_explicit_intent">Simple Explicit Intent: target component</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_explicit_intent_b">Explicit Intent: Activity B</string>
+    <string name="explicit_intent_button">Simple explicit Intent</string>
+    <string name="simple_explicit_intent_message">Fui iniciada via um intent explícito.</string>
+    <string name="title_activity_explicit_intent_with_extras">Explicit Intent With Extras</string>
+    <string name="intent_extra_message">Olá, %1$s, seu RA é %2$s</string>
+    <string name="title_activity_explicit_intent_with_extras_target">
+        Explicit Intent With Extras: Target
+    </string>
+    <string name="intent_extra_send">Send</string>
+    <string name="intent_extra_nome_hint">Nome</string>
+    <string name="intent_extra_ra_hint">RA</string>
+    <string name="empty_field">This field is required</string>
+    <string name="title_activity_implicit_intent_with_result">ImplicitIntentWithResult</string>
+    <string name="pick_photo_message">Pick a photo</string>
+    <string name="title_activity_implicit_intent_with_extra">Implicit Intent with Extra</string>
+    <string name="message_hint">Message</string>
+    <string name="send_button">Send</string>
+    <string name="title_activity_implicit_intent_with_app_chooser">Implicit Intent with App
+        Chooser
+    </string>
+    <string name="chooser_title">Send this message with</string>
+    <string name="title_activity_implicit_intent_unchecked">ImplicitIntentUnchecked</string>
+    <string name="title_activity_intent_action_list">IntentActionList</string>
+    <string name="title_activity_implicit_intent_filter_test">Implicit Intent Filter Test</string>
+    <string name="intent_filter_test_button">Pick a contact</string>
+    <string name="contato_item_email_label">Email:</string>
+    <string name="contato_item_telcom_label">Tel. comercial:</string>
+    <string name="contato_item_telres_label">Tel. residencial</string>
+    <string name="contato_item_endereco_label">Endereço</string>
+    <string name="contact_failed_message">Failed to retrieve a contact</string>
+    <string name="intent_unavailable_message">No contact application available</string>
+    <string name="contact_success_message">Contact successfully picked</string>
+    <string name="title_activity_explicit_intent_with_flags">ExplicitIntentWithFlags</string>
+    <string name="task_id_message">My task id is %1$d. Click a button below to activate another activity.</string>
+    <string name="task_id">My task id is %1$d</string>
+    <string name="activate_button_no_flags_text">Activate without flags</string>
+    <string name="activate_button_flags_text">Activate with flags</string>
+    <string name="title_activity_no_flag">NoFlagActivity</string>
+    <string name="title_activity_flag">FlagActivity</string>
+    <string name="implicit_intent_instruction">This example should be used together with the project \"Agenda Contatos 2\", otherwise no app will be able to provide the data it needs.</string>
+    <string name="invalid_intent">There is no app to provide images</string>
+    <string name="no_photo_returned">No photo has been returned from extenal app</string>
+</resources>

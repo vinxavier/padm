@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      xmlns:yourapp="http://schemas.android.com/apk/res-auto"
+      tools:context="br.edu.ufabc.padm.agendacontatos.PegarContato">
+
+    <item android:id="@+id/action_confirm"
+          android:icon="@drawable/ic_action_insert"
+          android:title="@string/selecionar_contatos"
+          yourapp:showAsAction="ifRoom"/>
+
+</menu>

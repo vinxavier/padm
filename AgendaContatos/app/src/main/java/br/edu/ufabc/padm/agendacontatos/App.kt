@@ -6,8 +6,14 @@ import android.util.Log
 
 class App:Application() {
     companion object {
+
         lateinit var context: Context
             private set
+
+        val CONTACT_EDIT_EXTRA_KEY = "isEditing"
+        val CONTACT_POSITION_EXTRA_KEY: String? = "contactPosition"
+
+
     }
 
 
