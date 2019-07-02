@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp">
+
+    <TextView
+            android:text="titulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:paddingLeft="10dp" android:id="@+id/titulo_label" android:textSize="20sp"
+            android:textColor="@color/gray"/>
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                  android:layout_alignTop="@+id/titulo_label" android:layout_marginTop="20dp"
+                    android:orientation="horizontal"
+                    >
+        <TextView
+                android:text="autor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:paddingLeft="20dp" android:id="@+id/autor_label" android:textSize="16sp"
+                android:layout_marginTop="1dp" android:layout_below="@+id/titulo_label"
+                android:textColor="@color/gray"
+                android:layout_weight="1" android:ellipsize="end" android:lines="1"/>
+        <TextView
+                android:text="Nota:"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp" android:id="@+id/avaliacao_text" android:textSize="16sp"
+                android:layout_marginTop="1dp" android:layout_below="@+id/titulo_label"
+                android:textColor="@color/gray"
+                android:layout_weight="2"/>
+        <TextView
+                android:text="nota"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp" android:id="@+id/avaliacao_label" android:textSize="16sp"
+                android:layout_marginTop="1dp" android:layout_below="@+id/titulo_label"
+                android:textColor="@color/orange" android:textStyle="bold"
+        android:layout_weight="2"/>
+    </LinearLayout>
+
+
+</RelativeLayout>

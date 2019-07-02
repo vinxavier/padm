@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ebook Library</string>
+    <string name="titulo">Título</string>
+    <string name="autor">Autor</string>
+    <string name="isbn">ISBN</string>
+    <string name="ano">Ano</string>
+    <string name="editora">Editora</string>
+    <string name="avaliacao">Avaliação</string>
+    <string name="adicionar_ebook">Adicionar um Ebook</string>
+    <string name="insert_status_ok">Ebook Inserido com Sucesso</string>
+    <string name="required_field">Campo Requisitado</string>
+    <string name="inserir_ebook">Adicionar Ebook</string>
+</resources>

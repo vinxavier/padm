@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <EditText android:id="@+id/insert_titulo"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:hint="@string/titulo"
+              android:padding="5dp"
+              android:layout_marginTop="30dp"
+              android:inputType="text"
+              android:textColor="@color/gray"
+              android:textColorHint="@color/gray"
+              android:textSize="20dp"/>
+    <EditText android:id="@+id/insert_autor"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:hint="@string/autor"
+              android:padding="5dp"
+              android:layout_marginTop="10dp"
+              android:inputType="textPersonName"
+              android:textColor="@color/gray"
+              android:textSize="20dp"/>
+    <EditText android:id="@+id/insert_isbn"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:hint="@string/isbn"
+              android:padding="5dp"
+              android:layout_marginTop="10dp"
+              android:inputType="text"
+              android:textColor="@color/gray"
+              android:textSize="20dp"/>
+    <EditText android:id="@+id/insert_ano"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:hint="@string/ano"
+              android:padding="5dp"
+              android:layout_marginTop="10dp"
+              android:inputType="number"
+              android:textColor="@color/gray"
+              android:textSize="20dp"/>
+    <EditText android:id="@+id/insert_editora"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:hint="@string/editora"
+              android:padding="5dp"
+              android:layout_marginTop="10dp"
+              android:inputType="text"
+              android:textColor="@color/gray"
+              android:textSize="20dp"/>
+    <RatingBar
+            android:layout_width="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_height="wrap_content" android:id="@+id/insert_avaliacao" android:numStars="5" android:stepSize="1"
+            android:rating="1" android:max="5" android:progress="1" android:layout_gravity="center"/>
+    <TextView android:textSize="18dp" android:text="@string/avaliacao" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+
+
+</LinearLayout>
