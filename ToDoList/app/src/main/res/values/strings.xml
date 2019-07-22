@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_main_title">Inbox</string>
+    <string name="required_field_error">Campo obrigatório</string>
+    <string name="task_add_success">Tarefa adicionada com sucesso</string>
+    <string name="task_add_failure">Houve um problema ao adicionar a tarefa</string>
+    <string name="label_title">Título</string>
+    <string name="title_insert">Nova tarefa</string>
+    <string name="pick_date">Selecionar deadline</string>
+</resources>
